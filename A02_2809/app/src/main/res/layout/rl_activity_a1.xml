@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- rl_activity_a1.xml -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- empty -->
+    <!-- ULC -->
+    <Button
+        android:id="@+id/id_btn_ulc"
+        android:text="@string/str_btn_ulc"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <!-- URC -->
+    <Button
+        android:id="@+id/id_btn_urc"
+        android:text="@string/str_btn_urc"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <!-- LLC -->
+    <Button
+        android:id="@+id/id_btn_llc"
+        android:text="@string/str_btn_llc"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <!-- LRC -->
+    <Button
+        android:id="@+id/id_btn_lrc"
+        android:text="@string/str_btn_lrc"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+</RelativeLayout>

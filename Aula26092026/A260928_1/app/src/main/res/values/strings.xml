@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A260928_1</string>
+    <string name="str_btn_ulc">ULC</string>
+    <string name="str_btn_urc">URC</string>
+    <string name="str_btn_llc">LLC</string>
+    <string name="str_btn_lrc">LRC</string>
+</resources>
